@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>/404.html</loc>
+  </url>
+  <url>
+    <loc>/authors.html</loc>
+  </url>
+  <url>
+    <loc>/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/dot-add_null_stat.html</loc>
+  </url>
+  <url>
+    <loc>/reference/dot-create_formula.html</loc>
+  </url>
+  <url>
+    <loc>/reference/dot-oc_sum_table.html</loc>
+  </url>
+  <url>
+    <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/outcome_table.html</loc>
+  </url>
+  <url>
+    <loc>/reference/set_litertable_theme.html</loc>
+  </url>
+  <url>
+    <loc>/reference/set_table_theme.html</loc>
+  </url>
+</urlset>

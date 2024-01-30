@@ -1,0 +1,9 @@
+pandoc: 3.1.1
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles: {}
+last_built: 2024-01-30T03:31Z
+urls:
+  reference: example.com/checkvar/reference
+  article: example.com/checkvar/articles
+
