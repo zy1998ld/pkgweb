@@ -1,11 +1,13 @@
-litertable
+GFNzy package
 ================
 zy
 2024-01-30
 
-## R Markdown
+## Package description
 
 This is an R package **zyGFN** for GFN model
+
+### Visualization tools
 
 ``` 
 git clone
